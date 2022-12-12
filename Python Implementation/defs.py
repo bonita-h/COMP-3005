@@ -1,0 +1,2 @@
+loggedInUsername = ""
+isAdmin = False
